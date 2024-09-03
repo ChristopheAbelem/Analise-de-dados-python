@@ -1,7 +1,7 @@
 # Analise-de-dados-python
 
 ## Descrição
-Este projeto realiza uma análise detalhada de dados de startups dos Estados Unidos fornecidas pelo dataframe, examinando tendências de status, demográficas, setoriais, temporais e financeiras para identificar padrões e insights relevantes que possam ajudar a entender o ecossistema de startups no país e suas caracteristicas.
+Este projeto utiliza de python para realizar uma análise detalhada de dados de startups dos Estados Unidos fornecidas por um dataframe, examinando tendências de status, demográficas, setoriais, temporais e financeiras para identificar padrões e insights relevantes que possam ajudar a entender o ecossistema de startups no país e suas caracteristicas.
 
 ## Objetivos do Projeto
 - Identificar os principais hubs de startups por localização geográfica.
